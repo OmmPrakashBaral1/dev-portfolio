@@ -95,13 +95,13 @@ Each component is dedicated to a single section of the page:
 ## 4. How to Run & Build
 
 ```bash
-# 1. Install dependencies (first time only)
+# 1. Install dependencies
 npm install
 
 # 2. Start local development server
 npm run dev
 
-# 3. Create production build (generates fresh dist/)
+# 3. Create production build
 npm run build
 
 # 4. Preview production build locally
