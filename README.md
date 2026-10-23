@@ -115,3 +115,5 @@ npm run preview
 Open `src/data.js` and edit the relevant fields:
 - Replace `[placeholder]` in `resumeUrl`, `socials`, or project links with your real URLs.
 - To add a new project, add another object to the `projects` array in `data.js`.
+
+**Here is the link: ** https://omm-portfolio-woad.vercel.app?_vercel_share=BUrgmFWidkW22eBjo3eFZ3hUD8Lpc5nO
