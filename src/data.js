@@ -90,7 +90,7 @@ export const portfolioData = {
     {
       role: "Cloud Computing Intern",
       organization: "A2R Software Consulting",
-      period: "[placeholder] - Present",
+      period: "MAY 2026 - JULY 2026",
       description: "Working on cloud infrastructure deployment, automation, and AWS service integrations.",
     },
     {
